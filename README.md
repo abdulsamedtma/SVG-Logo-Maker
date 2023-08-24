@@ -35,7 +35,7 @@ The application enables freelance web developers to create simple logos for clie
 
 ## Live Screen Recording of Application Functionality
 
-https:
+Walkthrough video URL : https:
 
 ## Screenshots
 
@@ -107,3 +107,5 @@ Have additional questions? Click the links below to reach me through my GitHub a
 [Link to Github](https://github.com/abdulsamedtma)
 
 <a href="mailto:abdulsamedtma@gmail.com">abdulsamedtma@gmail.com</a>
+
+               This SVG Logo-Maker was generated with ❤️ using Node.js command-line. ✨  Every day is a learning day!  ✨
