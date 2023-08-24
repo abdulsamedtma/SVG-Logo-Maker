@@ -58,7 +58,7 @@ This project is powered by Node.js v16, utilizes inquirer v8.2.4 (node package m
 ## Installation
 
 1. Clone the repo:
-   git clone https://github.com/abdulsamedtma/SVG-Logo-Maker.git
+   git clone https://github.com/abdulsamedtma/svg-Logo-Maker.git 
 
 2. Open in VS Code. If you do not have VS code you must install it.
 
