@@ -1,0 +1,12 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="300" height="200">
+
+<rect x="50" height="200" width="200" fill="blue"/>
+
+<text x="150" y="125" font-size="60" text-anchor="middle" fill="white">ASA</text>
+
+</svg>
+
+<!---When using the command line to create a new "logo.svg" file, 
+it will replace any existing files with the same name. To avoid this, save your current "logo.svg" with a new name and ".svg" extension. 
+This prevents conflicts and preserves your work. For example, I've stored my past projects in the "examples" 
+folder, each with a unique name I assigned to avoid clashes with new "logo.svg" files.-->
