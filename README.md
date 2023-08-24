@@ -42,14 +42,15 @@ Walkthrough video URL : https:
 Logo Generation
 
 ![Alt text](images/Install-npm-package.png)
-![Alt text](images/Jest-test-result.png)
+![Alt text](images/Jest-test-results.png)
+![Alt text](images/Logo%20generate%20functionality.png)
 
 
 
-
-Examples of Generated Logos
-
-
+Examples of some generated Logo
+![Alt text](images/logo-circle.png)
+![Alt text](images/logo-square.png)
+![Alt text](images/logo-triangle.png)
 
 ## Technologies Used
 
