@@ -12,15 +12,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/abdulsamedtma/SVG-Logo-Maker.git"
+    "url": "git+https://github.com/abdulsamedtma/svg-Logo-Maker.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/abdulsamedtma/SVG-Logo-Maker/issues"
+    "url": "https://github.com/abdulsamedtma/svg-Logo-Maker/issues"
   },
-  "homepage": "https://github.com/abdulsamedtma/SVG-Logo-Maker#readme",
+  "homepage": "https://github.com/abdulsamedtma/svg-Logo-Maker#readme",
   "dependencies": {
     "inquirer": "^8.2.4"
   },
