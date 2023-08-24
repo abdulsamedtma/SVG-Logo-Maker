@@ -41,6 +41,8 @@ https:
 
 Logo Generation
 
+![Alt text](images/Install-npm-package.png)
+![Alt text](images/Jest-test-result.png)
 
 
 
