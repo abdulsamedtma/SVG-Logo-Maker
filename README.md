@@ -47,6 +47,7 @@ Logo Generation
 
 ![Alt text](images/Logo%20generate%20functionality.png)
 
+![Alt text](images/logo-generated.png)
 
 
 Examples of some generated Logo
