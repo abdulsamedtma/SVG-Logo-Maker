@@ -42,14 +42,19 @@ Walkthrough video URL : https://drive.google.com/file/d/1EQKJZiC9PM_IuYnn7w-JCbm
 Logo Generation
 
 ![Alt text](images/Install-npm-package.png)
+
 ![Alt text](images/Jest-test-results.png)
+
 ![Alt text](images/Logo%20generate%20functionality.png)
 
 
 
 Examples of some generated Logo
+
 ![Alt text](images/logo-circle.png)
+
 ![Alt text](images/logo-square.png)
+
 ![Alt text](images/logo-triangle.png)
 
 ## Technologies Used
